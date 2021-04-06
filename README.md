@@ -4,31 +4,13 @@ Web Hunting course is designed keeping in mind the hacker's mindset. The objecti
 
 # Web Hunting - 00 
 Objective : The course is beginner friendly which will cover basics of Web Hunting and explore different types of vulnerabilities.
-#
-Course Module : 
-Overview of Security
-Cross Site Scripting , RXSS, SXSS, DXSS, BXSS Cross Site Request Forgery
-SQL Injection
-Template Injection
-Command Injection
-Broken Access Control - IDOR, Privilege Escalation
-CORS and SOP
-Attacking OAUTH Mechanism
-Attacking Business Logic
-Insecure Deserialization
-Server Side Request Forgery
-Exploiting Information Disclosure Stack traces
-  Stack traces
-  Error messages Fuzzing
-  Fuzzing
-  Xml External Entities
-Other Techniques
-  HTTP Header Injection Cookie Injection
-  Open Redirect
-  HTTP Parameter Pollution Form Autocomplete
-  JS Files Enumeration
-  2FA Bypass
+Course Module : https://www.notion.so/Web-Hunting-00-bde0e18bbfa44c04a7c8f97ed7301301
   
 # Web Hunting - 01
+Objective : This is an advance level course which will help implementing Bug Hunting methodology along with how to start
+Bug Hunting and what to hunt.
+Course Module : https://www.notion.so/Web-Hunting-01-73557eaaedee49b1bb4e1cdca79c284f 
 
 # Web Hunting - 10
+Objective : This is an expert level course which will help you to exploit critical and unique findings and understanding advance techniques.
+Course Module : https://www.notion.so/Web-Hunting-10-01610b4a3f5b4526b6aac1267e4a0925
