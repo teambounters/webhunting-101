@@ -4,7 +4,7 @@ Web Hunting course is designed keeping in mind the hacker's mindset. The objecti
 
 # Web Hunting - 00 
 Objective : The course is beginner friendly which will cover basics of Web Hunting and explore different types of vulnerabilities.
-Course Module : https://www.notion.so/Web-Hunting-00-bde0e18bbfa44c04a7c8f97ed7301301
+  Course Module : https://www.notion.so/Web-Hunting-00-bde0e18bbfa44c04a7c8f97ed7301301
   
 # Web Hunting - 01
 Objective : This is an advance level course which will help implementing Bug Hunting methodology along with how to start
