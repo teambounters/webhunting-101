@@ -4,6 +4,7 @@ Web Hunting course is designed keeping in mind the hacker's mindset. The objecti
 
 # Web Hunting - 00 
 Objective : The course is beginner friendly which will cover basics of Web Hunting and explore different types of vulnerabilities.
+#
 Course Module : 
 Overview of Security
 Cross Site Scripting , RXSS, SXSS, DXSS, BXSS Cross Site Request Forgery
